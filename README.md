@@ -1,7 +1,6 @@
 <p align="center">
   <h2>Hi there 👋</h2>
   <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=2o4oo&theme=gruvbox&count_private=true&include_all_commits=true&line_height=28" width=335></a>
-  <a href="#"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=2o4oo&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&count_private=true&include_all_commits=true" width=400></a>
 </p>
 
 <!--
